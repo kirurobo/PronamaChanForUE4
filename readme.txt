@@ -19,18 +19,13 @@ http://3d.nicovideo.jp/works/td8608
 http://pronama.azurewebsites.net/pronama/guideline/
 
 
-また、おまけで含まれる DrawLinePostProcess マテリアルの中身は
-http://rarihoma.xvs.jp/2015/02/22/1/
-を元にしたものです。
-
-
 
 ■ データ構成
 
 Content
 └Pronama-chan … メインである、スケルタルメッシュがあります
 　├Animations … ちょっとだけサンプルで、まばたきとT-ポーズをとるアニメーションが入っています。
-　├Materials … マテリアルをまとめたフォルダです。おまけでエッジ描画のPostProcessMaterialもあります。
+　├Materials … マテリアルをまとめたフォルダです。
 　│├Standard … 標準ライティング用のマテリアルです
 　│└Unlit … ライティング無効のマテリアルです
 　├Skeleton … スケルトンがあります。
